@@ -1,0 +1,61 @@
+Multichar_Symbols +N +Sg +Pl +Nom +Gen +Dat +Acc +Ins +Pre
+
+LEXICON Root						
+Noun ;
+
+LEXICON Noun
+
+птиц N1decl;
+тыкв N1decl;
+изб N1decl;
+дуб N2decl;
+отец N2decl;
+волк N2decl;
+мыш N3decl;
+ноч N3decl;
+сирен N3decl;
+
+LEXICON N1decl
++N+Sg+Nom:^а #
++N+Sg+Gen:^ы  #;
++N+Sg+Dat:^е  #;
++N+Sg+Acc:^у  #;
++N+Sg+Ins:^ой  #;
++N+Sg+Pre:^е  #;
++N+Pl+Nom:^ы  #;
++N+Pl+Gen:^  #;
++N+Pl+Dat:^ам  #;
++N+Pl+Acc:^ #;
++N+Pl+Ins:^ами  #;
++N+Pl+Pre:^ах  #;
+
+LEXICON N2decl
++N+Sg+Nom:^ #
++N+Sg+Gen:^a  #;
++N+Sg+Dat:^у  #;
++N+Sg+Acc:^а #;
++N+Sg+Ins:^ом  #;
++N+Sg+Pre:^е  #;
++N+Pl+Nom:^ы  #;
++N+Pl+Gen:^ов  #;
++N+Pl+Dat:^ам  #;
++N+Pl+Acc:^ов #;
++N+Pl+Ins:^ами  #;
++N+Pl+Pre:^ах  #;
+
+LEXICON N3dekl
++N+Sg+Nom:^ь  #;
++N+Sg+Gen:^и  #;
++N+Sg+Dat:^и  #;
++N+Sg+Acc:^ь  #;
++N+Sg+Ins:^ью  #;
++N+Sg+Pre:^и  #;
++N+Pl+Nom:^и  #;
++N+Pl+Gen:^ей  #;
++N+Pl+Dat:^ям  #;
++N+Pl+Acc:^и  #;
++N+Pl+Ins:^ями  #;
++N+Pl+Pre:^ях  #;
+
+END
+
