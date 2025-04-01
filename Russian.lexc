@@ -3,7 +3,7 @@ Multichar_Symbols +N +Sg +Pl +Nom +Gen +Dat +Acc +Ins +Pre
 LEXICON Root						
 Noun ;
 
-LEXICON Noun
+LEXICON Nouns
 
 птиц N1decl;
 тыкв N1decl;
@@ -16,7 +16,7 @@ LEXICON Noun
 сирен N3decl;
 
 LEXICON N1decl
-+N+Sg+Nom:^а #
++N+Sg+Nom:^а #;
 +N+Sg+Gen:^ы  #;
 +N+Sg+Dat:^е  #;
 +N+Sg+Acc:^у  #;
@@ -30,7 +30,7 @@ LEXICON N1decl
 +N+Pl+Pre:^ах  #;
 
 LEXICON N2decl
-+N+Sg+Nom:^ #
++N+Sg+Nom:^ #;
 +N+Sg+Gen:^a  #;
 +N+Sg+Dat:^у  #;
 +N+Sg+Acc:^а #;
