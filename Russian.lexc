@@ -43,7 +43,7 @@ LEXICON N2decl
 +N+Pl+Ins:^ами  #;
 +N+Pl+Pre:^ах  #;
 
-LEXICON N3dekl
+LEXICON N3decl
 +N+Sg+Nom:^ь  #;
 +N+Sg+Gen:^и  #;
 +N+Sg+Dat:^и  #;
