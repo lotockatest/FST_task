@@ -3,7 +3,7 @@ Multichar_Symbols +N +Sg +Pl +Nom +Gen +Dat +Acc +Ins +Pre
 LEXICON Root						
 Noun ;
 
-LEXICON Nouns
+LEXICON Noun
 
 птиц N1decl;
 тыкв N1decl;
